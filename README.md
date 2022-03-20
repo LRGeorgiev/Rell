@@ -32,6 +32,11 @@
   </p>
   <h1><a href = "https://codingburgas-my.sharepoint.com/:w:/g/personal/lrgeorgiev20_codingburgas_bg/EbYEXsj6mAFEiZdU7y8ToKEByRKxqQUVpfSfBvVjbn0Tdw?e=2o2Ifb">📃Our Documentation</h1>
 <h1><a href = "https://codingburgas-my.sharepoint.com/:p:/g/personal/lrgeorgiev20_codingburgas_bg/EUV4o67yy7tGpTDGjLjLXNkBmic0fqgu_3zI6oZPpliLFw?e=kdOBXA">📃 Our Presentation</h1>
+  <h1> Used recources:</h1>
+  <h3><a href = "https://www.wikipedia.org">Wikipedia</h3>
+  <h3><a href = "https://quizizz.com/admin/quiz/5e2c716db05a31001b002c94/-6-">Quizzy</h3>
+   
+    
   
   
 ## Thank you for visiting our project!
