@@ -1,6 +1,25 @@
 body{
     font-family: 'Roboto', sans-serif;
 }
+a {
+    text-decoration: none;
+    display: inline-block;
+    padding: 8px 16px;
+  }
+  
+  a:hover {
+    background-color: #86B271;
+    color: black;
+  }
+  
+  .previous {
+    background-color: #A0D585;
+    color: black;
+  }
+  
+  .round {
+    border-radius: 50%;
+  }
 .team-wrapper{
     background: #D9FCC2;
     padding: 50px 0px;
