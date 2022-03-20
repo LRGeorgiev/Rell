@@ -32,4 +32,7 @@
   </p>
   <h1><a href = "https://codingburgas-my.sharepoint.com/:w:/g/personal/lrgeorgiev20_codingburgas_bg/EbYEXsj6mAFEiZdU7y8ToKEByRKxqQUVpfSfBvVjbn0Tdw?e=2o2Ifb">📃Our Documentation</h1>
 <h1><a href = "https://codingburgas-my.sharepoint.com/:p:/g/personal/lrgeorgiev20_codingburgas_bg/EUV4o67yy7tGpTDGjLjLXNkBmic0fqgu_3zI6oZPpliLFw?e=kdOBXA">📃 Our Presentation</h1>
+  
+  
+## Thank you for visiting our project!
     
