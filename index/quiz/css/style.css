@@ -13,6 +13,11 @@ body{
 	outline: none;
 }
 
+#flag{
+	box-shadow: 1px 1px 10px;
+	border-radius: 30px;
+}
+
 .custom-box{
 	max-width: 700px;
 	background-color: #e6ffe6;
@@ -66,12 +71,18 @@ body{
 	padding: 15px 45px;
 	background-color: #006126;
 	color:#ffffff;
+	box-shadow: 1px 1px 10px black;
 	border:none;
 	border-radius: 10px;
 	font-family: 'Montserrat', sans-serif;
 	font-size: 17px;
 	cursor: pointer;
 	display: inline-block;
+	transition: 0.8s;
+}
+
+.btn:hover{
+	background: #26af5c;
 }
 
 .quiz-box .question-number,
@@ -102,12 +113,15 @@ body{
 	max-width: 100%;
 	display: block;
 	margin-top: 15px;
+	box-shadow: 1px 1px 10px black;
+	border-radius: 20px;
 }
 .quiz-box .option-container .option{
 	background-color: #b3e6cc;
 	padding:13px 15px;
 	font-size: 16px;
 	line-height: 22px;
+	box-shadow: 1px 1px 10px black;
 	color:#003300;
 	border-radius: 10px;
 	margin-bottom: 10px;
@@ -117,6 +131,11 @@ body{
 	animation: fadeIn 0.3s ease forwards;
 	position: relative;
 	overflow:hidden;
+	transition: 0.5s;
+}
+
+.quiz-box .option-container .option:hover{
+	background-color: lightgreen;
 }
 .quiz-box .option-container .option.already-answered{
 	pointer-events: none;
@@ -179,6 +198,7 @@ body{
 	border-radius: 50%;
 	margin-right: 3px;
 	margin-top: 15px;
+	box-shadow: 1px 1px 10px black;
 }
 .quiz-box .answers-indicator div.correct{
 	background-color: green;
