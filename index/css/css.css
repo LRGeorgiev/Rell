@@ -8,12 +8,23 @@
 	display: flex;
 	align-items: center;
 	justify-content: space-between;
+	
 }
 .navbar ul li{
 	list-style: none;
 	display: inline-block;
 	margin: 0 15px;
 	position: relative;
+	transition: 0.9s;
+	border-radius: 10px;
+	width: 80px;
+	text-align: center;
+}
+
+.navbar ul li:hover {
+  background-color: #497a43;
+  color: white;
+  
 }
 
 .navbar ul li a{
