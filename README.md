@@ -12,6 +12,13 @@
   <h1> 📟 About  </h1>
   <p>
     Our website gives you info about certain regions in Bulgaria.
+  
+   ![image](https://user-images.githubusercontent.com/86322070/159160574-417c27b0-8149-4c72-80c3-08d26fe85aab.png)
+
+
+
+
+  
   </p>
   
   <h1>Our Team </h1>
