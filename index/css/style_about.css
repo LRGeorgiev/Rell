@@ -49,14 +49,62 @@ body{
 .team-item:hover img{
     background: #424248;
 }
-.btn{
-	padding: 15px 45px;
-	background-color: #006126;
-	color:#ffffff;
-	border:none;
-	border-radius: 10px;
-	font-family: 'Montserrat', sans-serif;
-	font-size: 17px;
-	cursor: pointer;
-	display: inline-block;
+
+.navbar{
+	width: 100%;
+    margin: auto;
+    padding: 30px 0;
+    display: flex;
+    justify-content: center;
+    background-color: #d9fcc2;
+	
 }
+.navbar ul li{
+	list-style: none;
+	display: inline-block;
+	margin: 0 15px;
+	position: relative;
+	transition: 0.9s;
+	border-radius: 10px;
+	width: 90px;
+	text-align: center;
+}
+
+.navbar ul li:hover {
+  background-color: #497a43;
+  color: white;
+  
+}
+
+.navbar ul li a{
+	text-decoration: none;
+	color: #003300;
+	text-transform: uppercase;  
+}
+
+
+	
+}
+.navbar ul li{
+	list-style: none;
+	display: inline-block;
+	margin: 0 15px;
+	position: relative;
+	transition: 0.9s;
+	border-radius: 10px;
+	width: 80px;
+	text-align: center;
+}
+
+.navbar ul li:hover {
+  background-color: #497a43;
+  color: white;
+  
+}
+
+.navbar ul li a{
+	text-decoration: none;
+	color: #003300;
+	text-transform: uppercase;  
+}
+
