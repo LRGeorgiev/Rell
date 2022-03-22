@@ -34,7 +34,7 @@
    
    //get the position of 'questionIndex' from the availableQuestion Array
     const index1= availableQuestions.indexOf(questionIndex);
-    
+    sdadssa
 	//the question doesn't repeat
     availableQuestions.splice(index1,1);
 	
